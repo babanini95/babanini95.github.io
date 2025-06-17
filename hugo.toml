@@ -58,3 +58,7 @@ key = 3
 name = "email"
 url = "mailto:arobbanii5@gmail.com"
 aria = "My e-Mail Address"
+
+[caches]
+[caches.images]
+dir = ':cacheDir/images'
