@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://gohugo.io/</link>
+    <description>Recent content on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>arobbanii5@gmail.com (Abdullah Robbani)</managingEditor>
+    <webMaster>arobbanii5@gmail.com (Abdullah Robbani)</webMaster>
+    <lastBuildDate>Fri, 13 Jun 2025 21:25:03 +0800</lastBuildDate>
+    <atom:link href="https://gohugo.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://gohugo.io/about/</link>
+      <pubDate>Fri, 13 Jun 2025 21:25:03 +0800</pubDate><author>arobbanii5@gmail.com (Abdullah Robbani)</author>
+      <guid>https://gohugo.io/about/</guid>
+      <description>&lt;p&gt;Hi, my name is Abdullah Robbani and you can call me Bani. Welcome to my blog 👋.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-i-do&#34;&gt;What I Do&lt;/h2&gt;&#xA;&lt;p&gt;I studied &lt;strong&gt;mechanical engineering&lt;/strong&gt; for over six years, but I ended up in &lt;strong&gt;programming&lt;/strong&gt; quite accidentally. For the past three years, I&amp;rsquo;ve been involved in many &lt;strong&gt;Unity projects&lt;/strong&gt;, ranging from 2D and 3D to single-player, multi-player, and even blockchain-integrated applications. Currently, I&amp;rsquo;m focused on sharpening my skills in &lt;strong&gt;backend development with Go&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

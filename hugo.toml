@@ -1,0 +1,60 @@
+baseURL = 'https://babanini95.github.io'
+languageCode = 'en-us'
+theme = "nightfall"
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
+[menu]
+[[menu.header]]
+name = "blog"
+weight = 0
+url = "posts"
+[[menu.header]]
+name = "about"
+weight = 1
+url = "about"
+[[menu.header]]
+name = "projects"
+weight = 0
+url = "projects"
+
+[params]
+user = "bani"
+hostname = "dev.id"
+[params.author]
+name = "Abdullah Robbani"                          # Website and RSS feed author
+description = "Game Developer | Backend Developer"
+email = "arobbanii5@gmail.com"                     # RSS feed email address
+[params.styles]
+color = "orange"
+
+readingTime = true # Show reading time on post page
+published = true   # Show published data on post page
+
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/babanini95"
+target = "_blank"
+aria = "GitHub Profile"
+
+[[params.social]]
+key = 1
+name = "twitter"
+url = "https://x.com/arobbaniii"
+aria = "Twitter Profile"
+
+[[params.social]]
+key = 2
+name = "linkedin"
+url = "https://www.linkedin.com/in/arobbani/"
+aria = "LinkedIn Profile"
+
+[[params.social]]
+key = 3
+name = "email"
+url = "mailto:arobbanii5@gmail.com"
+aria = "My e-Mail Address"
