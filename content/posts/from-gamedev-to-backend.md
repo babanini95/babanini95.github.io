@@ -1,6 +1,6 @@
 +++
 title = 'From Game Dev to Backend: My Layoff Pivot'
-date = 2025-06-26
+date = 2025-06-26T01:30:00+08:00
 draft = false
 +++
 ## The End
