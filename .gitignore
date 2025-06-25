@@ -1,0 +1,15 @@
+# Hugo
+/public/
+/resources/_gen/
+/.hugo_build.lock
+
+# extended
+/data/
+/config/
+/static/
+
+# Linux
+.directory
+
+# Visual Studio Code
+.vscode/
