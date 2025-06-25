@@ -252,3 +252,10 @@ exit: Exit the Pokedex
 Pokedex > exit
 Closing the Pokedex... Goodbye!
 ```
+
+#### Interacting with PokeAPI
+
+Let's start by adding `map` command to displays the names of 20 location areas in the Pokemon world. Each subsequent call to map should display the next 20 locations, and so on. We will use [PokeAPI location areas endpoint](https://pokeapi.co/docs/v2#location-areas) to get the data. Take a time to read the [docs](https://pokeapi.co/docs/v2#location-areas) first.
+
+PokeAPI is a RESTful API that provides data about Pokemon. We can use the [`net/http`](https://pkg.go.dev/net/http) package in Go to make HTTP requests to the PokeAPI and fetch the data we need.
+

@@ -16,10 +16,10 @@ url = "posts"
 name = "about"
 weight = 1
 url = "about"
-[[menu.header]]
-name = "projects"
-weight = 0
-url = "projects"
+# [[menu.header]]
+# name = "projects"
+# weight = 0
+# url = "projects"
 
 [params]
 user = "bani"
