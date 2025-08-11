@@ -3,6 +3,7 @@ title = 'From Game Dev to Backend: My Layoff Pivot'
 date = 2025-06-26T01:30:00+08:00
 draft = false
 +++
+<!--more-->
 ## The End
 
 I remember on a friday noon, I was working on my task and suddenly the CEO entered the room and gathered all the employees. He said that the company had been bleeding since last year and the company needed to stop all the projects and layoff all the employees. It was a shocking news, but it is what it is.
