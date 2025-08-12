@@ -15,12 +15,11 @@ I studied **mechanical engineering** for over six years, but I ended up in **pro
 - **Languages**: C#, Go, Python, JavaScript
 - **Game Development**: Unity, Photon Fusion, Asset Bundles
 - **Frontend Development**: HTML, CSS, Jinja, Hugo, React
-- **Backend Development**: REST APIs, Flask, net/http
+- **Backend Development**: REST APIs, Flask, net/http, chi
 - **Blockchain Development**: Solidity, Foundry, Wagmi, Sequence SDK
 - **CLI Tools**: Cobra, Viper
 - **Databases**: PostgreSQL, SQLite, Firestore, goose, sqlc
 - **Tools**: Git, Docker, Visual Studio Code, Visual Studio, Unity Editor, Plastic SCM
-- **Others**: goose, sqlc, Postman
 
 ## Experience
 
