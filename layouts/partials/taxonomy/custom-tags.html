@@ -1,0 +1,7 @@
+<!-- [html-validate-disable element-required-ancestor] -->
+<dd>
+  {{- range $index, $el := . -}}
+  <span></span>
+  <a href="{{ .RelPermalink }}">#{{ .LinkTitle }}</a>
+  {{- end -}}
+</dd>
