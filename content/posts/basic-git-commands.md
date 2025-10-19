@@ -1,7 +1,7 @@
 +++
 title = 'Basic Git Commands'
 date = 2025-10-19T10:48:23+08:00
-draft = true
+draft = false
 +++
 
 This article will cover what Git is and the explanation of some Git commands that I usually use in my daily workflow.
