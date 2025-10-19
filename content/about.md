@@ -8,20 +8,29 @@ Hi, my name is Abdullah Robbani and you can call me Bani. Welcome to my blog ðŸ‘
 
 ## What I Do
 
-I studied **mechanical engineering** for over six years, but I ended up in **programming** quite accidentally. For the past three years, I've been involved in many **Unity projects**, ranging from 2D and 3D to single-player, multi-player, and even blockchain-integrated applications. Currently, I'm focused on sharpening my skills in **backend development with Go**. I also teach programming ranging from 5 years old kids to 18 years old teenagers at [Timedoor Academy](https://timedooracademy.com/).
+I studied **mechanical engineering** for over six years, but I ended up in **programming** quite accidentally. For the past three years, I've been involved in many **Unity projects**, ranging from 2D and 3D to single-player, multi-player, and even blockchain-integrated applications. Currently, I am working as a fullstack developer at [Fluffy Brown](https://www.fluffybrown.com/). I also teach programming ranging from 5 years old kids to 18 years old teenagers at [Timedoor Academy](https://timedooracademy.com/).
 
 ## Skills
 
 - **Languages**: C#, Go, Python, JavaScript
 - **Game Development**: Unity, Photon Fusion, Asset Bundles
 - **Frontend Development**: HTML, CSS, Jinja, Hugo, React
-- **Backend Development**: REST APIs, Flask, net/http, chi
+- **Backend Development**: REST APIs, Flask, net/http, chi, ASP.NET
 - **Blockchain Development**: Solidity, Foundry, Wagmi, Sequence SDK
 - **CLI Tools**: Cobra, Viper
-- **Databases**: PostgreSQL, SQLite, Firestore, goose, sqlc
+- **Databases**: PostgreSQL, SQLite, Firestore, goose, sqlc, .NET EF
 - **Tools**: Git, Docker, Visual Studio Code, Visual Studio, Unity Editor, Plastic SCM
 
 ## Experience
+
+### Fullstack Developer, [Fluffy Brown](https://www.fluffybrown.com/)
+
+#### Sep 2025 - Present
+
+- Developing client features, tools, and optimizations in Unity.
+- Designing and implementing backend services (C#/.NET/cloud), including APIs, databases, and deployment.
+
+___
 
 ### Programming Teacher, [Timedoor Academy](https://timedooracademy.com/)
 
