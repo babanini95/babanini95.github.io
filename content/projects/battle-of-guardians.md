@@ -2,6 +2,8 @@
 title = 'Battle of Guardians'
 date = 2026-06-11T11:26:46+08:00
 draft = false
+tags = ["Unity", "Asset Management"]
+categories = ["work project"]
 +++
 
 ![BOG Logo](https://raw.githubusercontent.com/babanini95/babanini95.github.io/refs/heads/main/content/projects/images/bog_logo.jpg)
